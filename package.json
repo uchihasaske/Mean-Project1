@@ -1,0 +1,26 @@
+{
+  "name": "angular-project1",
+  "version": "1.0.0",
+  "description": "Mean stack by akash",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihasaske/Mean-Project1.git"
+  },
+  "keywords": [
+    "Awesome"
+  ],
+  "author": "Akash Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihasaske/Mean-Project1/issues"
+  },
+  "homepage": "https://github.com/uchihasaske/Mean-Project1#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9"
+  }
+}
